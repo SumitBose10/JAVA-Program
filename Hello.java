@@ -17,7 +17,7 @@ class hello extends Thread {
 
     public void go() {
         while (true) {
-            System.out.println("hi");
+            System.out.println("hi meow");
         }
     }
 }
